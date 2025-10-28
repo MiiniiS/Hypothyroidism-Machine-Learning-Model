@@ -121,9 +121,13 @@ The findings demonstrate that ensemble models like Random Forest can effectively
 This research-oriented project demonstrates how machine learning techniques can assist in the early detection of hypothyroidism.
 By combining clinical data with AI-driven methods, the system enhances diagnostic accuracy and reduces manual intervention.
 Key Outcomes:
+
 -Developed and compared multiple ML models for hypothyroidism prediction.
+
 -Achieved reliable accuracy and recall using Random Forest Classifier.
+
 -Provided a framework for future integration into medical decision support systems.
+
 -----
 
 ## 🧩 Dependencies  
